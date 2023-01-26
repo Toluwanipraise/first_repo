@@ -1,0 +1,5 @@
+Hi, My name is Peter.
+
+I hope you are doig ok?
+
+Don't pay me much attention just learning Git
